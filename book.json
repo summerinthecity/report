@@ -2,7 +2,7 @@
     "plugins": ["autocover"],
     "pluginsConfig": {
         "autocover": {
-            "background": "images/Technical_Report_Coverpage_eScience.svg"
+            "watermark": "images/Technical_Report_Coverpage_eScience.svg"
         }
         
     }
