@@ -1,0 +1,9 @@
+{
+    "plugins": ["autocover"],
+    "pluginsConfig": {
+        "autocover": {
+            "background": "images/Technical_Report_Coverpage_eScience.svg"
+        }
+        
+    }
+}
