@@ -10,5 +10,6 @@
 - [A quick HOWTO run](a-quick-howto-run.md)
 - [Forecasting system](forecasting-system.md)
 - [App](app.md)
+- [Video](video.md)
 - [Resources](resources.md)
 - [Project Output](project-output.md)
